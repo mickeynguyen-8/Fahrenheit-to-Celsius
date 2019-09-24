@@ -1,0 +1,19 @@
+body{
+    width: 600px;
+    margin: 100px auto;
+    padding: 100px;
+    border: 10px solid grey;
+    font-size: 20px;
+    background-color: whitesmoke;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 30px;
+}
+html{
+    background-color: gold;
+}
+#typing{
+    font-size:20px;
+}
+#clicking{
+    font-size: 20px;
+}
